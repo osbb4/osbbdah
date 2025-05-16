@@ -1,0 +1,13 @@
+db/
+__pycache__/
+_digests/
+SQLite viewer/
+venv/
+synch/
+.backup/
+.fixes/
+*.pyc
+*.session
+.env
+config.py
+

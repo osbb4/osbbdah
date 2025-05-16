@@ -1,0 +1,4 @@
+telethon
+openai
+sqlite-utils
+python-dotenv
